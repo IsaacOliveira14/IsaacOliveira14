@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/IsaacOliveira14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacOliveira14&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacOliveira14&layout=compact&hide_border=true&&langs_count=7&theme=gotham"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaacOliveira14&show_icons=true&hide_border=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="170m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacOliveira14&layout=compact&hide_border=true&&langs_count=7&theme=gotham"/>
 </div>
   
   ## Tecnologias
