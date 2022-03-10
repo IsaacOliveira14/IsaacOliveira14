@@ -3,7 +3,6 @@
 <br>
 
 - 🐵 Estudante de programação Web
-- 👀 Tenho interesse em React Native
 - 🌱 Estudando HTML, CSS e Javascipt
 
 <br>
